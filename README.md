@@ -79,8 +79,8 @@ Para criar um binário do seu aplicativo, siga os passos abaixo:
    sudo mv go-todo /usr/local/bin/
    ```
 
-Agora você pode rodar o aplicativo de qualquer lugar do terminal com o comando:
+   3.1 **Agora você pode rodar o aplicativo de qualquer lugar do terminal com o comando:**
 
-    ```bash
-    go-todo
-    ```
+   ```bash
+   go-todo
+   ```
